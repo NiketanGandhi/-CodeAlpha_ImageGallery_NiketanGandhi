@@ -1,1 +1,1 @@
-# -CodeAlpha_ImageGallery_NiketanGandhi
+# -CodeAlpha_ImageGallery
